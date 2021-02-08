@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ride_tracker@localhost" uuid="7f3eb670-41a7-461c-af3f-91021c47be0d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/ride_tracker</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ride_tracker@localhost [2]" uuid="9e26b1ca-5820-43ff-8252-7523c0d986db">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/ride_tracker</jdbc-url>
+    </data-source>
+  </component>
+</project>
